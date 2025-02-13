@@ -1,3 +1,11 @@
 DB_USER=bossUser
 DB_PASS=O62hS1sUqhuYAxd1
 ACCESS_TOKEN_SECRET=717c22f69c2d1d1e4526b55982438ea0f4dcd0d32922c5ab1caad9edfe636dea55238f476c0c93c3af12b5e9427be8f52c2089d5c121f5cd224d3808cffdf346
+
+
+VITE_apiKey=AIzaSyAM6nV8fW6t0HtF6Oiv4PyNSCIYvCifnXc
+VITE_authDomain=restaurant-7ee5e.firebaseapp.com
+VITE_projectId=restaurant-7ee5e
+VITE_storageBucket=restaurant-7ee5e.firebasestorage.app
+VITE_messagingSenderId=76779987843
+VITE_appId=1:76779987843:web:31a37a459ccb162e5e0cb6
